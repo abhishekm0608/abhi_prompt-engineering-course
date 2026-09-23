@@ -1,0 +1,2 @@
+"This file was added during CLI Git practice." 
+"Learning clone, pull, commit, and push." 
